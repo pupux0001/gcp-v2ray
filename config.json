@@ -1,7 +1,7 @@
 {
   "inbounds": [
     {
-      "port": 443,
+      "port": 8080,
       "protocol": "vless",
       "settings": {
         "clients": [
@@ -14,8 +14,9 @@
       },
       "streamSettings": {
         "network": "ws",
+        "security": "none",
         "wsSettings": {
-          "path": "/vpn"
+          "path": "/tg-@nkka404"
         }
       }
     }
