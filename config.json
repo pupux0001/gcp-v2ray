@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "87e1c0a2-2e63-4262-91ff-23d3c1a1880b",
+            "id": "e1abd6a2-a6db-4bf5-b3ab-10b4667061ab",
             "level": 0
           }
         ],
@@ -16,7 +16,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/ahs1993"
+          "path": "/tunzaw"
         }
       }
     }
