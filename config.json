@@ -16,7 +16,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/tunzaw"
+          "path": "/tunzaw2"
         }
       }
     }
